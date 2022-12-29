@@ -6,6 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+I take the UI from this tutorial 
+& assets and a lot of guides 
+Thanks 🤩 
+
+https://youtu.be/BAc5OHF3emU
+
+
 ![flutter_web](https://user-images.githubusercontent.com/88866544/209916613-81dc0f98-c3e9-4669-9c61-edc1bf3e9c8b.png)
 
 
